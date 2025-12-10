@@ -29,12 +29,12 @@ Always learning — always building.
 
 <!-- Languages -->
 <strong>Languages:</strong><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,cs,python,dart" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,dart" />
 
 <br/><br/>
 
 <strong>Frameworks & Libraries:</strong><br/>
-<img src="https://skillicons.dev/icons?i=flutter,laravel,dotnet,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=flutter,laravel,react,nodejs,express" />
 
 <br/><br/>
 
