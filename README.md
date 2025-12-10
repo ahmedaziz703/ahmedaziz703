@@ -83,7 +83,7 @@ Always learning — always building.
 
 ---
 
-⭐ **Feel free to check my repos and give a star!**
+⭐ **Feel free to check my repos and give a star**
 
 
 ---
