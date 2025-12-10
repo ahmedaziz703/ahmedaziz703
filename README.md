@@ -18,7 +18,7 @@
 ---
 
 ## 🔥 **Professional Summary**
-Hello! I’m Ahmed, a passionate developer focusing on building web systems, mobile apps, and backend solutions.  
+Hello I’m Ahmed, a passionate developer focusing on building web systems, mobile apps, and backend solutions.  
 I love creating applications with clean architecture, high performance, and modern UI/UX.  
 Always learning — always building.
 
