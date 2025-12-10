@@ -75,8 +75,8 @@ Always learning — always building.
 
 <p align="left">
 <a href="https://github.com/ahmedaziz703"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-<a href="https://facebook.com/1mmmm"><img src="https://img.icons8.com/?size=100&id=118497&format=png&color=1877F2" height="40"/></a>
-<a href="https://wa.me/your-account"><img src="https://img.icons8.com/?size=100&id=16713&format=png&color=4CAF50" height="40"/></a>
+<a href="https://www.facebook.com/share/1K9pXgZz3U"><img src="https://img.icons8.com/?size=100&id=118497&format=png&color=1877F2" height="40"/></a>
+<a href="https://wa.me/qr/KMZKH3H5DG6IK1"><img src="https://img.icons8.com/?size=100&id=16713&format=png&color=4CAF50" height="40"/></a>
 <a href="mailto:ahmedazizalregas@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 <a href="https://portfolio-orcin-seven-1mk53kxuyx.vercel.app/"><img src="https://skillicons.dev/icons?i=wordpress" height="40"/></a>
 </p>
