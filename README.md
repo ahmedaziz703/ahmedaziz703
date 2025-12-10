@@ -1,16 +1,86 @@
-## Hi there 👋
 
-<!--
-**ahmedaziz703/ahmedaziz703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner or Profile Image (اختياري) -->
+<p align="center">
+  <img src="https://i.ibb.co/4Z1FbYt/banner-github.png" alt="Ahmed Aziz Banner"/>
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center"> Hi 👋, I'm Ahmed Aziz </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Back-end & Mobile Developer | Web Systems | Flutter</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-account&label=Profile%20views&color=0e75b6&style=flat" alt="your-account" />
+</p>
+
+---
+
+## 🔥 **Professional Summary**
+Hello! I’m Ahmed, a passionate developer focusing on building web systems, mobile apps, and backend solutions.  
+I love creating applications with clean architecture, high performance, and modern UI/UX.  
+Always learning — always building.
+
+---
+
+## 🛠 **Skills & Tools**
+<p align="left">
+
+<!-- Languages -->
+<strong>Languages:</strong><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,cs,python,dart" />
+
+<br/><br/>
+
+<strong>Frameworks & Libraries:</strong><br/>
+<img src="https://skillicons.dev/icons?i=flutter,laravel,dotnet,react,nodejs,express" />
+
+<br/><br/>
+
+<strong>Databases:</strong><br/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,supabase" />
+
+<br/><br/>
+
+<strong>Tools:</strong><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma" />
+
+</p>
+
+---
+
+## 💼 **Professional Experience**
+
+| Position | Organization | Duration | Contributions |
+|---------|-------------|----------|---------------|
+| Full-Stack / Mobile Developer | – | 2022 – Present | - Development of web systems<br>- Flutter mobile applications<br>- Database design & API integration<br>- UI/UX implementation |
+
+---
+
+## 📊 **GitHub Statistics**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-account&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-account&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-account&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔗 **Connect With Me**
+
+<p align="left">
+<a href="https://github.com/your-account"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+<a href="https://facebook.com/your-account"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+<a href="https://wa.me/your-account"><img src="https://skillicons.dev/icons?i=whatsapp" height="40"/></a>
+<a href="mailto:your-account@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="https://your-website.com"><img src="https://skillicons.dev/icons?i=wordpress" height="40"/></a>
+</p>
+
+---
+
+⭐ **Feel free to check my repos and give a star!**
+
+
+---
