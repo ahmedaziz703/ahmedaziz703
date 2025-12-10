@@ -34,7 +34,7 @@ Always learning — always building.
 <br/><br/>
 
 <strong>Frameworks & Libraries:</strong><br/>
-<img src="https://skillicons.dev/icons?i=flutter,laravel,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=flutter,laravel,nodejs" />
 
 <br/><br/>
 
