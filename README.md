@@ -54,7 +54,7 @@ Always learning — always building.
 
 | Position | Organization | Duration | Contributions |
 |---------|-------------|----------|---------------|
-| Full-Stack / Mobile Developer | – | 2022 – Present | - Development of web systems<br>- Flutter mobile applications<br>- Database design & API integration<br>- UI/UX implementation |
+| Full-Stack / Mobile Developer | – | 2025 – Present | - Development of web systems<br>- Flutter mobile applications<br>- Database design & API integration<br>- UI/UX implementation |
 
 ---
 
