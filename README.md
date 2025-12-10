@@ -58,12 +58,12 @@ Always learning — always building.
 ## 📊 **GitHub Statistics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-account&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-account&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedaziz703&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedaziz703&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-account&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaziz703&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -71,11 +71,11 @@ Always learning — always building.
 ## 🔗 **Connect With Me**
 
 <p align="left">
-<a href="https://github.com/your-account"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-<a href="https://facebook.com/your-account"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+<a href="https://github.com/ahmedaziz703"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+<a href="https://facebook.com/1mmmm"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
 <a href="https://wa.me/your-account"><img src="https://skillicons.dev/icons?i=whatsapp" height="40"/></a>
-<a href="mailto:your-account@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-<a href="https://your-website.com"><img src="https://skillicons.dev/icons?i=wordpress" height="40"/></a>
+<a href="mailto:ahmedazizalregas@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="https://portfolio-orcin-seven-1mk53kxuyx.vercel.app/"><img src="https://skillicons.dev/icons?i=wordpress" height="40"/></a>
 </p>
 
 ---
