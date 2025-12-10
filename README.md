@@ -1,7 +1,7 @@
 
 <!-- Banner or Profile Image (اختياري) -->
 <p align="center">
-  <img src="https://i.ibb.co/4Z1FbYt/banner-github.png" alt="Ahmed Aziz Banner"/>
+  <img src="https://i.postimg.cc/wM0L03zm/20250624-222206.jpg" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center"> Hi 👋, I'm Ahmed Aziz </h1>
