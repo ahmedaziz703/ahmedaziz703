@@ -1,7 +1,10 @@
 
 <!-- Banner or Profile Image (اختياري) -->
 <p align="center">
-  <img src="https://i.postimg.cc/wM0L03zm/20250624-222206.jpg" alt="Banner" width="100%"/>
+  <img src="https://i.postimg.cc/wM0L03zm/20250624-222206.jpg" 
+       alt="Profile Image" 
+       width="200" 
+       style="border-radius: 50%; border: 3px solid #4e73df;" />
 </p>
 
 <h1 align="center"> Hi 👋, I'm Ahmed Aziz </h1>
