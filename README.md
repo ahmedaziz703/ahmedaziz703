@@ -1,7 +1,7 @@
 
 <!-- Banner or Profile Image (اختياري) -->
 <p align="center">
-  <img src="https://i.postimg.cc/wM0L03zm/20250624-222206.jpg" 
+  <img src="https://i.postimg.cc/nhCBGvL1/Picsart-25-12-10-21-10-39-352.png" 
        alt="Profile Image" 
        width="200" 
        style="border-radius: 50%; border: 3px solid #4e73df;" />
